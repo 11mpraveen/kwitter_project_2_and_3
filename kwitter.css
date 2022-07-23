@@ -1,0 +1,74 @@
+.login_div{
+    background: hsla(238, 100%, 71%, 1);
+
+    background: linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#696eff", endColorstr="#f8acff", GradientType=1 );
+width: 50%;
+height: 100%;
+}
+
+.login_div2{
+    background: hsla(154, 100%, 76%, 1);
+
+    background: linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(154, 100%, 76%, 1) 0%, hsla(234, 100%, 83%, 1) 50%, hsla(288, 100%, 81%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#84FFC9", endColorstr="#AAB2FF", GradientType=1 );   
+    width: 50%;
+    height: 100%;
+}
+
+.logo
+{
+	width: 80px;
+    margin-top: 180px;
+    border-radius: 40px;
+}
+
+.sign_up{
+    width: 80px;
+    margin-top: 180px;
+    border-radius: 40px;  
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background: hsla(238, 100%, 71%, 1);
+
+    background: linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#696eff", endColorstr="#f8acff", GradientType=1 );
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logout{
+    float: right;
+}
+
+#roomname{
+   width: 250px;
+   margin-left: 200px;
+}
+
+#add_room{
+    margin-left: 200px;
+}
